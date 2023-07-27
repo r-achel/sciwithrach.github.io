@@ -1,0 +1,41 @@
+body{
+    background-color:rgb(10, 4, 96)
+}
+hr{
+    color:#00FF73;
+    
+}
+h1{
+    color:white;
+    font-family:'Courier New', Courier, monospace;
+    font-size: xx-large;
+}
+h2{
+    color:white;
+    font-size: large;
+}
+p{
+    color:white;
+    font-size:larger;
+    padding-right: 53%;
+}
+a{
+    color:#00FF73;
+    text-decoration: #00FF73 wavy underline;
+    font-size: large;
+}
+a:visited{
+    color:white;
+    text-decoration: white wavy underline;
+    font-size: large;
+}
+a:hover{
+    color:pink;
+    text-decoration: white wavy underline;
+    font-size: large;
+}
+
+li{
+    color:white;
+    font-size: larger;
+}
