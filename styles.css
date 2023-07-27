@@ -1,5 +1,5 @@
 body{
-    background-color:rgb(10, 4, 96)
+    background-color:black
 }
 hr{
     color:#00FF73;
@@ -8,34 +8,41 @@ hr{
 h1{
     color:white;
     font-family:'Courier New', Courier, monospace;
-    font-size: xx-large;
+    font-size: 4em;
+    margin-top: 6%;
+    text-align: center;
 }
 h2{
     color:white;
-    font-size: large;
+    font-size: 2em;
+    text-align: center;
 }
 p{
     color:white;
-    font-size:larger;
-    padding-right: 53%;
+    font-size:1.8em;
+    padding-left: 2%;
+    padding-right: 2%;
 }
 a{
     color:#00FF73;
     text-decoration: #00FF73 wavy underline;
-    font-size: large;
+    font-size: 1.8rem;
 }
 a:visited{
     color:white;
     text-decoration: white wavy underline;
-    font-size: large;
+    font-size: 1.8rem;
 }
 a:hover{
     color:pink;
     text-decoration: white wavy underline;
-    font-size: large;
+    font-size: 1.8rem;
+}
+.container{
+    align-items: center;
+    justify-content: center;
 }
 
-li{
-    color:white;
-    font-size: larger;
-}
+img{max-width: 43%;
+    float:right;}
+
